@@ -5,7 +5,7 @@
  <meta charset="utf-8"/>
   <meta name="keywords" content="HTML, WWW"/>
   <meta name="description" content="Ćwiczenia z HTML"/>
-  <meta name="author" content="Olga Nyga"/>
+  <meta name="author" content="Barosz Radek"/>
   <meta name="viewport" content="width=device-width"/>
  </head>
  <body>
