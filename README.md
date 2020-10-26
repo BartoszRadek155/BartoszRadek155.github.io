@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css" type="text/css" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="alternate icon" href="favicon(1).png" sizes="32x32" type="image/png">
+    <link rel="alternate icon" href="favicon(1).ico" sizes="32x32" type="image/png">
     <title>Portfolio</title>
 </head>
 <body>
