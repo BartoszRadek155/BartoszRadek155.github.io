@@ -3,8 +3,7 @@
 <head>
     <link rel="stylesheet" href="style.css" type="text/css" />
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="alternate icon" href="favicon(1).ico" sizes="32x32" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
     <title>Portfolio</title>
 </head>
 <body>
