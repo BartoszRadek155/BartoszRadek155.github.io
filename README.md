@@ -1,36 +1,49 @@
-# BartoszRadek155.github.io
-<html lang="pl">
- <head>
-<title>Ćwiczenia w HTML</title>
- <meta charset="utf-8"/>
-  <meta name="keywords" content="HTML, WWW"/>
-  <meta name="description" content="Ćwiczenia z HTML"/>
-  <meta name="author" content="Barosz Radek"/>
-  <meta name="viewport" content="width=device-width"/>
- </head>
- <body>
-<h1>Ćwiczenia z edycji i formatowania<br/>
- stron WWW</h1>
-  <h2>Rozwiązania</h2>
-  <ul>
-   <li>
-<a href="akapity.html">Akapity i listy</a>
-   </li>
-   <li>
-<a href="tekst.html">Tekst i hiperłącza</a>
-   </li>
-  </ul>
-  <h2>Szablony</h2>
-  <div>
-<a href="www/szablony/szablonstrony1.html">
-Szablon strony 1
-</a>
-<a href="www/szablony/szablonstrony2.html">
-Szablon strony 2
-</a>
-<a href="www/szablony/szablonstrony3.html">
-Szablon strony 3
-</a>
-  </div>
- </body>
+<!DOCTYPE html>
+<html lang="PL-pl">
+<head>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <div class="naglowek">
+        O mnie 
+    </div>
+    <div class="tlo">
+        <p>Dzień Dobry jestem Bartek jestem uczniem klasy II</p>
+    </div>
+    <div class="naglowek">
+        Moje Prace
+    </div>
+    <div class="tlo">
+        <ul>
+            <a href="tabele.html"><li>tabele</li></a>
+            <a href="akapity.html"><li>akapity</li></a>
+            <a href="obrazy.html"><li>obrazy</li></a>
+            <a href="tekst.html"><li>tekst</li></a>
+            <a href="formularze.html"><li >formularze</li></a>
+
+        </ul>
+    </div>
+    
+    <div class="naglowek">
+        Kontakt
+    </div>
+    <div class="tlo_">
+       <center>
+	   <a href="https://www.instagram.com/baczeksini/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png">
+        </a>
+
+         <a href="https://www.facebook.com/profile.php?id=100004943504815" target="_blank">
+           <img src="https://pomoc.home.pl/wp-content/uploads/2019/11/facebook_logos_PNG19751.png">  
+		  </a>
+		   
+		   lub email: 19c.bartosz.radek@ezse.pl
+
+        </center> 
+    </div>
+</body>
 </html>
+
