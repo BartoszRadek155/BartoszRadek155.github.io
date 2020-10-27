@@ -34,7 +34,7 @@ body {
             <a href="obrazy.html"><li>obrazy</li></a>
             <a href="tekst.html"><li>tekst</li></a>
             <a href="formularze.html"><li >formularze</li></a>
-
+            <a href="linki.html"><li>linki</li></a>
         </ul>
     </div>
     
