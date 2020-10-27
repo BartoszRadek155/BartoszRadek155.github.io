@@ -21,7 +21,7 @@ body {
         O mnie 
     </div>
     <div class="tlo">
-        <p>Dzień Dobry jestem Bartek jestem uczniem klasy II</p>
+        <p>Dzień Dobry jestem Bartek jestem uczniem klasy II o profilu informatycznym w technikum nr. 4</p>
     </div>
     <div class="naglowek">
         Moje Prace
