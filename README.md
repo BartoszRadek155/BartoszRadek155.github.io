@@ -36,6 +36,7 @@ body {
             <a href="formularze.html"><li >formularze</li></a>
             <a href="linki.html"><li>linki</li></a>
             <a href="css-color.html"><li>css-color</li></a>
+	    <a href="css3-background.html"><li>css3-background</li></a>
         </ul>
     </div>
     
