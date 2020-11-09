@@ -37,6 +37,7 @@ body {
             <a href="linki.html"><li>linki</li></a>
             <a href="css-color.html"><li>css-color</li></a>
 	    <a href="css3-background.html"><li>css3-background</li></a>
+	    <a href="css3-selectors.html"><li>css3-selectors</li></a>
         </ul>
     </div>
     
