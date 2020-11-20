@@ -38,6 +38,7 @@ body {
             <a href="css-color.html"><li>css-color</li></a>
 	    <a href="css3-background.html"><li>css3-background</li></a>
 	    <a href="css3-selectors.html"><li>css3-selectors</li></a>
+	    <a href="css3-box.html"><li>modele formatowania</li></a>
         </ul>
     </div>
     
